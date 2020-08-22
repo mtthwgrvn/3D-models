@@ -136,12 +136,12 @@
         {
             "bufferView": 8,
             "mimeType": "image/jpeg",
-            "name": "Vector Smart Object.JPG"
+            "name": "Vector Smart Object.jpg"
         },
         {
             "bufferView": 9,
             "mimeType": "image/jpeg",
-            "name": "Vector Smart Object Extrusion Material - Default Texture.JPG"
+            "name": "Vector Smart Object Extrusion Material - Default Texture.jpg"
         }
     ],
     "materials": [
