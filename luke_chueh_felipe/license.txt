@@ -1,0 +1,11 @@
+Model Information:
+* title:	Day 41: Murals - Luke Chueh & Felipe Pantone
+* source:	https://sketchfab.com/3d-models/day-41-murals-luke-chueh-felipe-pantone-c1c1b37439f149308409273c36a1245e
+* author:	alexdelker (https://sketchfab.com/alexdelker)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Day 41: Murals - Luke Chueh & Felipe Pantone" (https://sketchfab.com/3d-models/day-41-murals-luke-chueh-felipe-pantone-c1c1b37439f149308409273c36a1245e) by alexdelker (https://sketchfab.com/alexdelker) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
