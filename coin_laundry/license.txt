@@ -1,0 +1,11 @@
+Model Information:
+* title:	Day 9: Coin Laundry
+* source:	https://sketchfab.com/3d-models/day-9-coin-laundry-2024e70b77ff4040b5adfce10157bcd0
+* author:	alexdelker (https://sketchfab.com/alexdelker)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Day 9: Coin Laundry" (https://sketchfab.com/3d-models/day-9-coin-laundry-2024e70b77ff4040b5adfce10157bcd0) by alexdelker (https://sketchfab.com/alexdelker) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
