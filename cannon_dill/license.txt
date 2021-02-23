@@ -1,0 +1,11 @@
+Model Information:
+* title:	Day 39: Mural - Cannon Dill & Brett Flanigan
+* source:	https://sketchfab.com/3d-models/day-39-mural-cannon-dill-brett-flanigan-522df0665ad44656a60de0fc6b63c124
+* author:	alexdelker (https://sketchfab.com/alexdelker)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Day 39: Mural - Cannon Dill & Brett Flanigan" (https://sketchfab.com/3d-models/day-39-mural-cannon-dill-brett-flanigan-522df0665ad44656a60de0fc6b63c124) by alexdelker (https://sketchfab.com/alexdelker) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
