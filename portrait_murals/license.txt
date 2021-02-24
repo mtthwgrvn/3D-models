@@ -1,0 +1,11 @@
+Model Information:
+* title:	Day 3: Portrait Murals - Washington Blvd.
+* source:	https://sketchfab.com/3d-models/day-3-portrait-murals-washington-blvd-05fcb7284acc449697e91fb0fd193cee
+* author:	alexdelker (https://sketchfab.com/alexdelker)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Day 3: Portrait Murals - Washington Blvd." (https://sketchfab.com/3d-models/day-3-portrait-murals-washington-blvd-05fcb7284acc449697e91fb0fd193cee) by alexdelker (https://sketchfab.com/alexdelker) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
